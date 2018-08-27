@@ -24,6 +24,7 @@
                 android:src="@mipmap/ic_launcher"
                 ></ImageView>
             <TextView
+                android:visibility="gone"
                 android:textSize="24dp"
                 android:id="@+id/text"
                 android:layout_width="match_parent"
